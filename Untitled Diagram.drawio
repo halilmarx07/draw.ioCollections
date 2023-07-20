@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T11:22:45.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="20.4.1" etag="BrrQebFeSVdFIeWQUBQc" type="github"><diagram id="CzQ8dkAHQsKM06JWq7XT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-07-20T11:23:58.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="RoTynh4rHsz9iO6i39PM" version="20.4.1" type="github">
+  <diagram id="CzQ8dkAHQsKM06JWq7XT" name="Page-1">
+    <mxGraphModel dx="1367" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mI2iPz9pPv87dXh-x1po-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="340" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="mI2iPz9pPv87dXh-x1po-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="mI2iPz9pPv87dXh-x1po-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=west" vertex="1" parent="1">
+          <mxGeometry x="650" y="590" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mI2iPz9pPv87dXh-x1po-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=north" vertex="1" parent="1">
+          <mxGeometry x="120" y="590" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
